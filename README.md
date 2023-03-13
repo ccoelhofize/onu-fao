@@ -1,4 +1,4 @@
-# Réalisation d'un étude de santé publique pour l'ONU-FAO
+# Réalisation d'un étude de santé publique pour l'ONU-FAO avec Python
 J'ai rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 Mon travail a abouti sur un panorama de l’état de la malnutrition dans le monde sur l'année 2017. Dans le cadre de cette analyse, je me suis 
 interessée à vérifier:
